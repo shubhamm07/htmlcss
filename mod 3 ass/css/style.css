@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+#header-nav {
+	background: rgba(204, 51, 255,.5);
+	height: 100px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+.navbar-brand h1{
+	text-shadow: 1px 1px 1px #222;
+	margin
+}
+ul {
+	text-align: center;
+	font-size: 1.5em;
+	background: rgba(50, 152, 219);
+}
+h2,h3{
+	text-align: center;
+}
+.body{
+	clear: both;
+	/*margin: 20px;*/
+}
+#navlist{
+	float: left;
+}
+.row{
+	background: #9f9da3;
+	margin: 15px;
+	border-radius: 10px;
+}
+p {
+	padding: 7px;
+}
